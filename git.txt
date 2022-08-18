@@ -1,0 +1,26 @@
+What is Git?
+Git is a Version control system
+
+What is the difference between Git and GitHub?
+Git is the version control system and Github is the cloud platform that hosts the projects
+
+Why do we create a branch?
+We create branches so that we can work on new features without affecting the main code.
+
+What is the purpose of a Pull Request?
+The pull request allows for other people to view and review your code before merging it with the main branch.
+
+What is the command you can use to switch between branches? For example you are working on the FIRSTNAME-LASTNAME branch and you want to switch back to main.
+git checkout -b "" is the command used to switch between branches
+
+Explain the difference between git fetch, git merge and git pull. What does each command do?
+git fetch is a primary command used to download contents from a remote repository. git merge is combining a forked history back together again, and git pull is used to fetch and download content from a remote repositoy and immediately update the local repository to match that content.
+
+What is a merge conflict?
+merge conflict happens when you merge branches that have competing commits and Git needs your help to decide which changes to incorporate in the final merge.
+
+
+How do you resolve a merge conflict?
+You can resolve merge conflicts by using the command line and a text editor.
+
+
